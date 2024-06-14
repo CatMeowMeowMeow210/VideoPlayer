@@ -1,7 +1,7 @@
 # VideoPlayer
 你想吃Bad Apple吗？
 # 怎么运行？
-你可以试着打开```VideoPlayer.py```
+你可以试着运行```pip install pygame```，然后打开```VideoPlayer.py```
 # 什么？你想更改程序里的视频？
 那么你可以使用ffmpeg：
 ```
